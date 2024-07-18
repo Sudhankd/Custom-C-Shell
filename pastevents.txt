@@ -1,0 +1,4 @@
+warp ..
+peek .
+proclore 1
+proclore
